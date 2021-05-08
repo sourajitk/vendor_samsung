@@ -39,9 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/bcmdhd_mfg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/bcmdhd_sta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/nvram_mfg.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_mfg.txt \
-    vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/nvram_mfg.txt_FD:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_mfg.txt_FD \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/nvram_net.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt \
-    vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/nvram_net.txt_FD:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram_net.txt_FD \
     vendor/samsung/j7xlte/proprietary/lib/hw/camera.vendor.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.universal7580.so \
     vendor/samsung/j7xlte/proprietary/lib/hw/nfc_nci.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/nfc_nci.universal7580.so \
     vendor/samsung/j7xlte/proprietary/lib/hw/sensors.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/sensors.universal7580.so \
