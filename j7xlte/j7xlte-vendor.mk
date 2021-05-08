@@ -193,7 +193,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SPEAKER.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_SPEAKER.txt \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADPHONE.txt \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/mVoIPSec/Tx_ControlParams_WIDEBAND_WIRED_HEADSET.txt \
-    vendor/samsung/j7xlte/proprietary/vendor/firmware/bcm43454_V0161.0287.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43454_V0161.0287.hcd \
+    vendor/samsung/j7xlte/proprietary/vendor/firmware/bcm43438A1_V0067.0284.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438A1_V0067.0284.hcd \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/fimc_is_fd.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fd.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/fimc_is_fw2_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_3l2.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
