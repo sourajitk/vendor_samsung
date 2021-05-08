@@ -18,7 +18,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000a.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000c.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000c.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000d.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000d.tlbin \
-    vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000e.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000000f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000000f.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000012.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000012.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000013.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000013.tlbin \
@@ -27,20 +26,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000019.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000019.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000001f.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000001f.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000021.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000021.tlbin \
-    vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff00000000000000000000002e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff00000000000000000000002e.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffff000000000000000000000041.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffff000000000000000000000041.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000004.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000004.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000a.tlbin \
-    vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd0000000000000000000000e.tlbin \
-    vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000014.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000014.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000016.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000016.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/ffffffffd00000000000000000000017.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/ffffffffd00000000000000000000017.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001b.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001b.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/app/mcRegistry/fffffffff0000000000000000000001e.tlbin:$(TARGET_COPY_OUT_VENDOR)/app/mcRegistry/fffffffff0000000000000000000001e.tlbin \
     vendor/samsung/j7xlte/proprietary/vendor/bin/cbd:$(TARGET_COPY_OUT_VENDOR)/bin/cbd \
     vendor/samsung/j7xlte/proprietary/vendor/bin/sswap:$(TARGET_COPY_OUT_VENDOR)/bin/sswap \
-    vendor/samsung/j7xlte/proprietary/etc/Tfa9897.cnt:$(TARGET_COPY_OUT_SYSTEM)/etc/Tfa9897.cnt \
-    vendor/samsung/j7xlte/proprietary/etc/sec_s3fwrn5s_rfreg.bin:$(TARGET_COPY_OUT_SYSTEM)/etc/sec_s3fwrn5s_rfreg.bin \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/bcmdhd_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/bcmdhd_mfg.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_mfg.bin \
     vendor/samsung/j7xlte/proprietary/vendor/etc/wifi/bcmdhd_sta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/bcmdhd_sta.bin \
@@ -51,15 +45,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/lib/hw/camera.vendor.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/camera.vendor.universal7580.so \
     vendor/samsung/j7xlte/proprietary/lib/hw/nfc_nci.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/nfc_nci.universal7580.so \
     vendor/samsung/j7xlte/proprietary/lib/hw/sensors.universal7580.so:$(TARGET_COPY_OUT_SYSTEM)/lib/hw/sensors.universal7580.so \
-    vendor/samsung/j7xlte/proprietary/lib/libbauthserver.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libbauthserver.so \
-    vendor/samsung/j7xlte/proprietary/lib/libbauthtzcommon.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libbauthtzcommon.so \
-    vendor/samsung/j7xlte/proprietary/lib/libegis_fp_normal_sensor_test.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libegis_fp_normal_sensor_test.so \
     vendor/samsung/j7xlte/proprietary/lib/libexynoscamera.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libexynoscamera.so \
     vendor/samsung/j7xlte/proprietary/lib/libsec-ril-dsds.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril-dsds.so \
     vendor/samsung/j7xlte/proprietary/lib/libsec-ril.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsec-ril.so \
     vendor/samsung/j7xlte/proprietary/lib/libsensorservice.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsensorservice.so \
-    vendor/samsung/j7xlte/proprietary/lib/libsynaFpSensorTestNwd.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libsynaFpSensorTestNwd.so \
-    vendor/samsung/j7xlte/proprietary/lib/libtfa98xx.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libtfa98xx.so \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/AzControlParams_SPEAKER.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/AzControlParams_SPEAKER.txt \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_ANALOG_DOCK.txt \
     vendor/samsung/j7xlte/proprietary/vendor/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt:$(TARGET_COPY_OUT_VENDOR)/etc/nxp/BargeIn/Tx_ControlParams_WIDEBAND_BLUETOOTH_SCO_HEADSET.txt \
