@@ -198,7 +198,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/fimc_is_fw2_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_fw2_3l2.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/ram_patch.fw:$(TARGET_COPY_OUT_VENDOR)/firmware/ram_patch.fw \
-    vendor/samsung/j7xlte/proprietary/vendor/firmware/sec_s3fwrn5s_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3fwrn5s_firmware.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/setfile_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3l2.bin \
     vendor/samsung/j7xlte/proprietary/vendor/firmware/setfile_5e3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_5e3.bin \
     vendor/samsung/j7xlte/proprietary/vendor/lib/soundfx/libLifevibes_lvverx.so:$(TARGET_COPY_OUT_VENDOR)/lib/soundfx/libLifevibes_lvverx.so \
